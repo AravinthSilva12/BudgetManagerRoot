@@ -1,4 +1,4 @@
-package com.aravinth.budgetmanager;
+package main;
 
 public class MainApp {
     public static void main(String[] args) {
